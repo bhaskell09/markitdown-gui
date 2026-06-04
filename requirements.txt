@@ -1,0 +1,9 @@
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
+markitdown[all]
+markitdown-ocr
+openai>=1.0.0
+python-dotenv
+markdown
+darkdetect
+Pygments
